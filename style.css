@@ -1,0 +1,19 @@
+body {
+    /* background-color: red; */
+    color: white;
+    background-image: url(./img/fundo.jpg);
+    background-color: rgba(0, 0, 0, 0.8);
+    background-blend-mode: multiply;
+    /* height: 100vh; */
+    /* img {opacity: 0.5;} */
+}
+
+
+.inicio p{
+    color:azure;
+    font-family: cursive;
+    font-size: 60px;
+    margin: 150px;
+    text-align: center;
+    background-color: rgba(80, 35, 35, 0.58);
+}
